@@ -7,7 +7,7 @@ Dependency manifest parsing library for https://libraries.io
 
 ## Installation
 
-Requires Ruby 2.7 or above.
+Require Ruby 2.7 or above.
 
 Add this line to your application's Gemfile:
 
